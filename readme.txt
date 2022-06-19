@@ -22,7 +22,7 @@ Installation
 
 install python and pygame. See https://python.org and https://pygame.org
 extract archive
-start TuxFighter54.py using your ide or from a terminal
+start TuxFighter55.py using your ide or from a terminal
 windows users: py TuxFighter55.py
 linux/mac: python3 TuxFighter55.py
 
